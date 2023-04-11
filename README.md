@@ -1,4 +1,4 @@
-# MemProtMD
+# MPss
  
 A collection of Google Colab notebooks for setting up protein-membrane systems.
 
